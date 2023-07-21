@@ -1,0 +1,27 @@
+   0 date
+   1 date > /home/newfolder.txt
+   2 ls -al
+   3 cat /home/newfolder.txt 
+   4 df -h 
+   5 df -h /
+   6 df -h / >> /home/newfolder.txt 
+   7 cat /home/newfolder.txt 
+   8 history
+   9 history | tail -n 5 >> /home/newfolder.txt  
+  10 cat /home/newfolder.txt 
+  11 ls -al
+  12 cat /proc/
+  13 cat /proc/cpuinfo
+  14 grep 'vendor'
+  15 grep 'vendor' /proc/cpuinfo 
+  16 grep 'vendor' /proc/cpuinfo | uniq
+  17 grep 'vendor' /proc/cpuinfo | sort | uniq
+  18 grep 'vendor' /proc/cpuinfo >> /home/newfolder.txt 
+  19 nano
+  20 vi /home/newfolder.txt 
+  21 ps -ef
+  22 ps -ef | wc -l | tail -n 1
+  23 ps -ef | wc -l | tail -n 1 >> /home/newfolder.txt 
+  24 cat /home/newfolder.txt 
+  25 history
+  26 history >file1.txt
