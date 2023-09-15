@@ -1,0 +1,17 @@
+ 0 mkdir /home/animals
+   1 mkdir /home/animals/dogs
+   2 mkdir /home/animals/cat
+   3 mkdir /home/animals/fish
+   4 touch /home/animals/dogs/pluto
+   5 touch /home/animals/fish/nemo
+   6 touch /home/animals/cat/garfild
+   7 touch /tmp/adam
+   8 mkdir /home/humans
+   9 cp /tmp/adam/home/humans
+  10 touch /tmp/eVa
+  11 mv /tmp/eVa
+  12 mv /tmp/eVa/opt/eve
+  13 mv /opt/eve/home/humans
+  14 ls /home/humans
+  15 ls
+  16 history
